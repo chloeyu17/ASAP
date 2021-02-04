@@ -1,0 +1,51 @@
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+.yellow{
+    color: gold;
+}
+
+.text{
+    color: black;
+    text-align:justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    font-style: italic;
+}
+
+#navbar{
+    background-color: rgb(235, 235, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#navlink{
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px;
+}
