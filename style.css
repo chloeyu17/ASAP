@@ -19,6 +19,8 @@ h3{
     margin-left: 2%
 }
 
+/*Text Colors*/
+
 .red{
     color: red;
 }
@@ -50,6 +52,10 @@ h3{
 
 .title{
     font-style: italic;
+}
+
+.ds{
+    margin-bottom: 10px;
 }
 
 /*navbar*/
