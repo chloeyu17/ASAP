@@ -1,6 +1,7 @@
 h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
+    margin-left: 40px;
 }
 
 h1 a{
@@ -17,6 +18,11 @@ h3{
     font-family: sans-serif;
     text-align: left;
     margin-left: 2%
+}
+
+img{
+    width: 100%;
+    margin: 0 2% 0 2%;
 }
 
 /*Text Colors*/
